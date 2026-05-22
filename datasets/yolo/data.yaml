@@ -1,0 +1,13 @@
+path: datasets/yolo
+
+train: images/train
+val: images/val
+
+nc: 5
+
+names:
+  0: earthquake_major
+  1: earthquake_minor
+  2: flood_high
+  3: flood_low
+  4: flood_medium

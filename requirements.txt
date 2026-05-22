@@ -1,0 +1,10 @@
+flask
+flask-cors
+gunicorn
+torch
+torchvision
+ultralytics
+pillow
+joblib
+scikit-learn
+opencv-python-headless

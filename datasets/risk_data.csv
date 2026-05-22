@@ -1,0 +1,7 @@
+disaster_type,water_level,building_damage_percent,people_affected,rescue_needed,area_risk_score,severity
+Flood,2,20,15,No,30,Low
+Flood,5,60,80,Yes,75,Medium
+Flood,8,90,200,Yes,95,High
+Earthquake,0,40,50,Yes,60,Medium
+Earthquake,0,85,300,Yes,95,High
+Earthquake,0,15,10,No,20,Low
